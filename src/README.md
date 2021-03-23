@@ -1,3 +1,7 @@
+# DEPRECATED
+
+The charm repo was moved to: https://opendev.org/openstack/charm-magnum
+
 # Overview
 
 This charm provides the Magnum service for an OpenStack Cloud.
